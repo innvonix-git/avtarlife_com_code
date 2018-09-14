@@ -219,7 +219,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../newimg/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -382,7 +382,7 @@ section#about-us {
 }
 #our-game .our-game{
   padding: 6em 0;
-  background-image: url(../img/our_game_bg.jpg);
+  background-image: url(../newimg/our_game_bg.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -494,7 +494,7 @@ footer span.copyright,footer span.made-by {
   text-transform: none;
 }
 footer span.made-by{float: right;}
-footer .made-by img.invvonix-logo {width: 45px;}
+footer .made-by img.invvonix-logo {width: 30px;}
 
 footer ul.quicklinks {
   font-size: 18px;
